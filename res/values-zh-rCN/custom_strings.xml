@@ -274,4 +274,6 @@
     <string name="hbm_disable_time_title"></string>
     <string name="hbm_disable_time_summary">禁用延迟（秒）</string>
     <string name="hbm_mode_warning">长时间使用高亮度模式可能导致屏幕损坏</string>
+    <string name="display_settings_title">自定义显示设置</string>
+    <string name="display_settings_summary">DC 调光,高亮度模式</string>
 </resources>
